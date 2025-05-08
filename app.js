@@ -1,8 +1,10 @@
+//express: Express.js library used to create a web server.=
 import express from "express";
 import playlist from "#db/playlist";
 
 const app = express()
 
+//Method: GET.
 app.route('/').get((req, res) =>{
     res.send("You've reached the Playlist API!")
 })
