@@ -1,7 +1,9 @@
 const playlist = [
-  "Exhilarating Lights",
-  "Space for Disco",
-  "Warm Heart, Cold Dinner",
-  "Sound of Voices",
-  "Tearful Paradise",
+  "Luther",
+  "Telepatia",
+  "Not like us",
+  "Labios mordidos",
+  "All the stars",
 ];
+
+export default playlist
